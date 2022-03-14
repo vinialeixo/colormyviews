@@ -8,7 +8,7 @@ This app demonstrates the following views and techniques:
   -In the Layout Editor: Creating chains, aligning objects, using baseline alignment for labels
 	
 	
-# Screenshots
-![image](https://user-images.githubusercontent.com/76107545/158084661-741b2485-e98a-4731-908d-d52fb3838bd3.png)
+# 
 
+![colorviews](https://user-images.githubusercontent.com/76107545/158085325-7c3cb940-196f-474a-9a18-b2d29a19e36e.gif)
 
